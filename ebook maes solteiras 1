@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Renda em Casa - eBook para Mães Solteiras</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+    body {
+      background: #fff8f4;
+      color: #333;
+      padding: 2rem;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #fddde6;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #d6336c;
+      margin-bottom: 1rem;
+    }
+    p.subtitulo {
+      font-size: 1.2rem;
+      color: #6c757d;
+    }
+    section.conteudo {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    section.conteudo p {
+      font-size: 1.1rem;
+      margin: 1rem 0;
+    }
+    .btn-comprar {
+      display: inline-block;
+      background-color: #d6336c;
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 2rem;
+      transition: background 0.3s;
+    }
+    .btn-comprar:hover {
+      background-color: #b02a53;
+    }
+    .secao-extra {
+      max-width: 800px;
+      margin: 3rem auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    .secao-extra h2 {
+      color: #d6336c;
+      margin-bottom: 1rem;
+    }
+    .secao-extra p {
+      margin-bottom: 1rem;
+    }
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Renda em Casa</h1>
+    <p class="subtitulo">Guia Prático e Afetivo para Mães Solteiras Empreendedoras</p>
+  </header>
+
+  <section class="conteudo">
+    <p>Você é uma mãe guerreira e merece mais: mais tempo com seus filhos, mais tranquilidade financeira e mais autonomia. Este eBook foi feito com amor para te ajudar a começar sua jornada de renda dentro de casa.</p>
+    <p>Com ideias práticas, acessíveis e reais, você vai aprender a gerar renda mesmo com pouco tempo, dinheiro ou estrutura. Tudo isso com empatia, acolhimento e incentivo.</p>
+    <a href="#" class="btn-comprar">Quero meu eBook agora</a>
+  </section>
+
+  <section class="secao-extra">
+    <h2>O que você vai encontrar neste eBook?</h2>
+    <p>✔️ Dicas de renda presencial e online</p>
+    <p>✔️ Ideias que cabem no seu bolso e na sua rotina</p>
+    <p>✔️ Passos práticos para começar do zero</p>
+    <p>✔️ Mensagens de acolhimento e incentivo</p>
+  </section>
+
+  <section class="secao-extra">
+    <h2>Depoimentos</h2>
+    <p>"Esse eBook me abriu os olhos! Hoje já vendo bolos na minha vizinhança e comecei a ganhar meu dinheirinho com orgulho." — <strong>Luciana (SP)</strong></p>
+    <p>"Nunca pensei que podia empreender de casa. Com esse guia, tudo fez sentido e comecei meu canal no YouTube." — <strong>Ana (PE)</strong></p>
+  </section>
+
+  <section class="secao-extra">
+    <h2>Perguntas Frequentes</h2>
+    <p><strong>Preciso de dinheiro para começar?</strong><br>Não. Muitas ideias usam o que você já tem em casa ou custam muito pouco.</p>
+    <p><strong>Funciona para qualquer idade?</strong><br>Sim. O guia é acessível e pode ser adaptado à sua realidade, independente da sua idade ou experiência.</p>
+    <p><strong>Em quanto tempo vou ter resultado?</strong><br>Isso depende do seu esforço, mas com dedicação, os primeiros ganhos podem vir rápido.</p>
+  </section>
+
+  <section class="secao-extra">
+    <h2>Bônus Exclusivo</h2>
+    <p>🎁 Checklist de ideias rápidas para começar ainda hoje</p>
+    <p>🎁 Modelo de cardápio para vendas de comida</p>
+    <p>🎁 Roteiro de postagem para redes sociais</p>
+  </section>
+
+  <section class="secao-extra">
+    <h2>Garantia de Satisfação</h2>
+    <p>Você tem 7 dias para avaliar o material. Se não gostar, devolvemos seu dinheiro sem complicações. Sua confiança é a nossa prioridade.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Renda em Casa. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
